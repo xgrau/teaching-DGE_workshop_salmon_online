@@ -1,4 +1,4 @@
-# Differential gene expression workshop using Salmon counts
+# Introduction to Differential Gene Expression Analysis
 
 | Audience | Computational skills required| Duration |
 :----------|:----------|:----------|
@@ -6,7 +6,7 @@
 
 ### Description
 
-This repository has teaching materials for a hands-on **Introduction to differential gene expression (DGE) analysis** workshop. The workshop will lead participants through performing a differential gene expression analysis workflow on RNA-seq count data using R/RStudio. Working knowledge of R is required or completion of the [Introduction to R workshop](https://hbctraining.github.io/Intro-to-R/). 
+This repository has teaching materials for a hands-on **Introduction to Differential Gene Expression Analysis** workshop. The workshop will lead participants through performing a differential gene expression analysis workflow on RNA-seq count data using R/RStudio. Working knowledge of R is required or completion of the [Introduction to R workshop](https://hbctraining.github.io/Intro-to-R-flipped/). 
 
 **Note for Trainers:** Please note that the schedule linked below assumes that learners will spend between 3-4 hours on reading through, and completing exercises from selected lessons between classes. The online component of the workshop focuses on more exercises and discussion/Q & A.
 
