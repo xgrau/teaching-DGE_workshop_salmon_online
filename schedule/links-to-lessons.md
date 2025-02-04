@@ -1,4 +1,4 @@
-# Differential Gene Expression Analysis (bulk RNA-seq Part II)
+# Introduction to Differential Gene Expression Analysis
 
 ## Learning Objectives
 
