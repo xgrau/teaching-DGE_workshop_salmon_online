@@ -94,6 +94,7 @@ library(pathview)
 library(tximport)
 library(AnnotationHub)
 library(ensembldb)
+library(apeglm)
 ```
 
 (4) Once all packages have been loaded, run sessionInfo().  
