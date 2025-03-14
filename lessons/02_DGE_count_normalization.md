@@ -4,12 +4,6 @@ author: "Meeta Mistry, Radhika Khetani, Mary Piper, Jihe Liu"
 date: "May 20, 2020"
 ---
 
-***
-
-[Previous Lesson](01c_RNAseq_count_distribution.md)
-
-***
-
 Approximate time: 60 minutes
 
 ## Learning Objectives 
