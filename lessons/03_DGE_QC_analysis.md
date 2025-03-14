@@ -4,12 +4,6 @@ author: "Meeta Mistry, Radhika Khetani, Mary Piper"
 date: "October 18, 2019"
 ---
 
-***
-
-[Previous Lesson](02_DGE_count_normalization.md)
-
-***
-
 Approximate time: 80 minutes
 
 ## Learning Objectives 
