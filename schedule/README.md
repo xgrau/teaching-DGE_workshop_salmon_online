@@ -184,5 +184,5 @@ We have covered the inner workings of DESeq2 in a fair amount of detail such tha
 * [ggplot2 for functional analysis](https://hbctraining.github.io/Training-modules/Tidyverse_ggplot2/lessons/03_ggplot2.html)
 
 ## Other helpful links
-* [Online learning resources](https://hbctraining.github.io/bioinformatics_online/lists/online_trainings.html)
-* [All hbctraining materials](https://hbctraining.github.io/main)
+* [Online hbctraining learning materials](https://hbctraining.github.io/main/table_of_training_README.html)
+* [hbctraining webpage](https://hbctraining.github.io/main)
