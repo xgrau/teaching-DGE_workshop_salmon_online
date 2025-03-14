@@ -4,15 +4,6 @@ author: "Meeta Mistry, Radhika Khetani, Mary Piper"
 date: "May 15, 2020"
 ---
 
-***
-
-[Previous Lesson](01b_DGE_setup_and_overview.md)
-
-***
-
-[GEO]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51443 "Gene Expression Omnibus"
-[SRA]: https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP031507 "Sequence Read Archive"
-
 Approximate time: 60 minutes
 
 ## Learning Objectives 
