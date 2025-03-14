@@ -2,7 +2,7 @@
 
 | Audience | Computational skills required| Duration |
 :----------|:----------|:----------|
-| Biologists | [Introduction to R](https://hbctraining.github.io/Intro-to-R/) | 4-session online workshop (~8 hours of trainer-led time)|
+| Biologists | [Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/) | 4-session online workshop (~8 hours of trainer-led time)|
 
 ### Description
 
