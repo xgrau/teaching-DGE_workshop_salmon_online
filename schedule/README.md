@@ -30,7 +30,7 @@
   * [Count normalization](../lessons/02_DGE_count_normalization.md)
      <details>
           <summary><i>Click here for a preview of this lesson</i></summary>
-            <br>Count normalization is an import data pre-processing step before the differential expression analysis. <br><br>This lesson will cover:<br>
+            <br>Count normalization is an important data pre-processing step before the differential expression analysis. <br><br>This lesson will cover:<br>
                 - Describing "uninteresting factors" to consider during normalization<br>
                 - Understanding different normalization methods and their corresponding use cases<br>
                 - Generating a matrix of normalized counts using DESeq2's median of ratios method<br><br>
