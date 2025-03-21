@@ -187,7 +187,7 @@ By default `plotPCA()` uses the *top 500 most variable genes*. You can change th
 
 ### Hierarchical Clustering for the MOV10 dataset
 
-There is no built-in function in DESeq2 for plotting the heatmap for diplaying the pairwise correlation between all the samples and the hierarchical clustering information; we will use the `pheatmap()` function from the `pheatmap` package. This function cannot use the `DESeqTransform` object as input, but requires a matrix or dataframe. So, the first thing to do is retrieve that information from the `rld` object using a function called `assay()` (from the `SummarizedExperiment` package) that converts the data in a `DESeqTransform` object to a simple 2-dimensional data structure (a matrix in this case).
+There is no built-in function in DESeq2 for plotting the heatmap for displaying the pairwise correlation between all the samples and the hierarchical clustering information; we will use the `pheatmap()` function from the `pheatmap` package. This function cannot use the `DESeqTransform` object as input, but requires a matrix or dataframe. So, the first thing to do is retrieve that information from the `rld` object using a function called `assay()` (from the `SummarizedExperiment` package) that converts the data in a `DESeqTransform` object to a simple 2-dimensional data structure (a matrix in this case).
 
 ```r
 ### Extract the rlog matrix from the object
